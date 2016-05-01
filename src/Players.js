@@ -1,4 +1,5 @@
 module.exports = {
-  javierbyte: require('./players/javierbyte.js'),
-  horror: require('./players/horror.js')
+  
+  danoram: require('./players/danoram.js'),
+  ganjasaurus: require('./players/ganjasaurus.js')
 };
