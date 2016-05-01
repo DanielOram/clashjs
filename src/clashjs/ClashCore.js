@@ -30,7 +30,7 @@ class ClashJS {
 
   setupGame() {
     this._gameEnvironment = {
-      gridSize: 13,
+      gridSize: 30,
       ammoPosition: []
     };
     this._rounds++;
