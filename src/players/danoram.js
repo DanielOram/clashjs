@@ -71,7 +71,6 @@ var LEGEND = {
         for(j = 0; j < areaAroundPlayer.length; j++){
           //check position is in bounds of grid
           if(((areaAroundPlayer[j][0] < gameEnvironment.gridSize) && (areaAroundPlayer[j][0] >= 0)) || ((areaAroundPlayer[j][1] < gameEnvironment.gridSize) && (areaAroundPlayer[j][1] >= 0))) {
-
           }
         }
 
